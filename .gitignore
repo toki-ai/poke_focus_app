@@ -1,0 +1,97 @@
+# Android Studio/IntelliJ IDEA
+/.idea/
+/*.iml
+/.gradle/
+/local.properties
+/.DS_Store
+/Thumbs.db
+/.settings/
+/*.ipr
+/*.iws
+/out/
+
+# Android
+/build/
+/captures/
+/navigation.json
+
+# Gradle files
+.gradle/
+/build/
+/!gradle-wrapper.jar
+/.gradle-cache/
+/.gradle/
+/.gradle-cache/
+/*.log
+/*.class
+
+# Kotlin
+/.kotlin/
+/*.kts
+
+# Generated files
+/generated/
+/libs/
+/*.apk
+/*.aar
+/*.dex
+
+# Keystore files
+/*.keystore
+/*.jks
+
+# Environment files
+/.env
+/.env.local
+/.secrets
+
+# Log files
+/log/
+/*.log
+
+# Test and coverage reports
+/test-output/
+/jacoco/
+/coverage/
+/*.ec
+
+# Flutter/React Native (if applicable)
+/.dart_tool/
+/.flutter-plugins
+.flutter-plugins-dependencies
+
+# Proguard/Android packaging options
+/proguard/
+/proguard-rules.pro
+
+# Firebase and Google Services
+/google-services.json
+/serviceAccountKey.json
+
+# NDK
+/.cxx/
+
+# Miscellaneous
+*.swp
+*.swo
+*.tmp
+*.bak
+*.class
+*.log
+*.lock
+*.orig
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output and intermediate state
+/build/
+.cxx/
+.externalNativeBuild/
+
+# Jetpack Compose previews
+/.compose-cache/
+
+# IntelliJ IDEA HTTP Client requests
+/http-client.env.json

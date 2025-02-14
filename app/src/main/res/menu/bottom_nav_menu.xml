@@ -5,11 +5,7 @@
         android:icon="@drawable/baseline_assistant_24"
         android:title="@string/nav_home"/>
     <item
-        android:id="@+id/nav_favorite"
+        android:id="@+id/nav_focus"
         android:icon="@drawable/baseline_assistant_24"
-        android:title="@string/nav_favorite"/>
-    <item
-        android:id="@+id/nav_profile"
-        android:icon="@drawable/baseline_assistant_24"
-        android:title="@string/nav_profile"/>
+        android:title="@string/nav_focus"/>
 </menu>

@@ -12,6 +12,10 @@ public class Pokemon {
         return name;
     }
 
+    public Sprites getSprites() {
+        return sprites;
+    }
+
     public String getImage(){
         return sprites != null ? sprites.getFrontDefault() : null;
     }

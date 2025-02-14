@@ -1,16 +1,11 @@
 package com.example.pokedexapp.data.model;
 import com.google.gson.annotations.SerializedName;
 
-public class Sprites {
+public class OfficialArtwork {
     @SerializedName("front_default")
     private String frontDefault;
-    private Other other;
 
     public String getFrontDefault() {
         return frontDefault;
-    }
-
-    public Other getOther() {
-        return other;
     }
 }

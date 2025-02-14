@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:top="0dp" android:left="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="top|left"/>
+    </item>
+    <item android:top="2dp" android:left="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="top|left"/>
+    </item>
+    <item android:top="0dp" android:left="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="top|left"/>
+    </item>
+    <item android:top="2dp" android:left="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="top|left"/>
+    </item>
+    <item android:top="4dp" android:left="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="top|left"/>
+    </item>
+
+    <item android:top="0dp" android:left="4dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="top|left"/>
+    </item>
+
+    <item android:top="0dp" android:right="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="top|right"
+            android:rotation="90"/>
+    </item>
+    <item android:top="0dp" android:right="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="top|right"
+            android:rotation="90"/>
+    </item>
+    <item android:top="2dp" android:right="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="top|right"
+            android:rotation="90"/>
+    </item>
+    <item android:top="2dp" android:right="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="top|right"
+            android:rotation="90"/>
+    </item>
+    <item android:top="0dp" android:right="4dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="top|right"
+            android:rotation="90"/>
+    </item>
+    <item android:top="4dp" android:right="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="top|right"
+            android:rotation="90"/>
+    </item>
+
+    <item android:bottom="0dp" android:left="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="bottom|left"
+            android:rotation="-90"/>
+    </item>
+    <item android:bottom="2dp" android:left="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="bottom|left"
+            android:rotation="-90"/>
+    </item>
+    <item android:bottom="0dp" android:left="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="bottom|left"
+            android:rotation="-90"/>
+    </item>
+    <item android:bottom="2dp" android:left="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="bottom|left"
+            android:rotation="-90"/>
+    </item>
+    <item android:bottom="4dp" android:left="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="bottom|left"
+            android:rotation="-90"/>
+    </item>
+    <item android:bottom="0dp" android:left="4dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="bottom|left"
+            android:rotation="-90"/>
+    </item>
+    <item android:bottom="0dp" android:right="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="bottom|right"
+            android:rotation="180"/>
+    </item>
+    <item android:bottom="2dp" android:right="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="bottom|right"
+            android:rotation="180"/>
+    </item>
+    <item android:bottom="0dp" android:right="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_white"
+            android:gravity="bottom|right"
+            android:rotation="180"/>
+    </item>
+    <item android:bottom="2dp" android:right="2dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="bottom|right"
+            android:rotation="180"/>
+    </item>
+    <item android:bottom="0dp" android:right="4dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="bottom|right"
+            android:rotation="180"/>
+    </item>
+    <item android:bottom="4dp" android:right="0dp">
+        <bitmap android:src="@drawable/img_pixel_corner_black"
+            android:gravity="bottom|right"
+            android:rotation="180"/>
+    </item>
+
+</layer-list>

@@ -1,5 +1,9 @@
 package com.example.pokedexapp.data.model;
 
+import androidx.annotation.ColorRes;
+
+import com.example.pokedexapp.R;
+
 public class TimeEntry {
     private int totalBlock;
     private int day;
@@ -44,4 +48,5 @@ public class TimeEntry {
     public void setTotalBlock(int totalBlock) {
         this.totalBlock = totalBlock;
     }
+
 }

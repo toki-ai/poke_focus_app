@@ -1,4 +1,4 @@
-package com.example.pokedexapp.data.model;
+package com.example.pokedexapp.data.model.pokemon;
 import com.google.gson.annotations.SerializedName;
 
 public class OfficialArtwork {

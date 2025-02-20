@@ -1,6 +1,6 @@
 package com.example.pokedexapp.api;
 
-import com.example.pokedexapp.data.model.Pokemon;
+import com.example.pokedexapp.data.model.pokemon.Pokemon;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

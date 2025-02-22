@@ -1,16 +1,16 @@
-package com.example.pokedexapp;
+package com.example.pokedexapp.activity;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.animation.LinearInterpolator;
-import android.widget.ImageView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.airbnb.lottie.LottieAnimationView;
+import com.example.pokedexapp.MainActivity;
+import com.example.pokedexapp.R;
 
 public class SplashActivity extends AppCompatActivity {
 
